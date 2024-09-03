@@ -1,0 +1,6 @@
+ti=tuple(int(x) for x in input("Enter the tuple elements: ").split(','))
+print(f"The sum of the elements in the tuple     :  {sum(ti)}")
+print(f"The average of the elements in the tuple :  {sum(ti)/len(ti)}")
+print(f"The maximum  element in the tuple        :  {max(ti)}")
+print(f"The maximum  element in the tuple        :  {min(ti)}")
+print(f"The number of  elements in tuple         :  {len(ti)}")
