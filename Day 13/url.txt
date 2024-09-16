@@ -1,0 +1,4 @@
+hello friend my name is a ashutosh and i have three urls
+https://example.com/products?id=123&category=books
+https://shop.example.org/item/456?discount=true
+https://www.example.net/user/profile?user_id=789&sort=asc
